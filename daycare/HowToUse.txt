@@ -1,0 +1,11 @@
+Projeto configurado com bootstrap seguindo o padrão MVC de desenvolvimento
+
+Modificar o .htaccess
+6 - RewriteRule ^(.*)$ /project_name/index.php?url=$1 [QSA,L]
+
+Modificar config.php
+12 - define('BASE_URL', 'http://localhost/project_name/');
+
+Modificar config.php
+14 - $config['dbname'] = 'db_name';
+

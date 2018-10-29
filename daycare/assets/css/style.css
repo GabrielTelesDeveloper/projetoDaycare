@@ -1,0 +1,24 @@
+.foto_item {
+    width:150px;
+    height:200px;
+    text-align: center;
+    margin-right: 10px;
+    float:left;
+}
+.foto_item img {
+    width:150px;
+}
+
+.foto{
+    width: 130px;
+    border:0;
+    border: #f1c40f solid 3px;
+}
+
+.borda{
+    margin-bottom: 5mm;
+}
+
+.borda2{
+    margin-bottom: 4mm;
+}
